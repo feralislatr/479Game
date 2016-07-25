@@ -1,0 +1,26 @@
+CISC479: PROJECT2
+-------------------------------
+
+Dot Game
+- eat AIs
+- eat food
+- grow --> points++, size++
+- AIs can eat you! --> game over
+
+Tasks
+- Movement
+- Collision Detection
+- Collison Logic
+- AI logic (movement, generation, types)
+- Food logic (generation, types)
+- Board - for now, one board player always on screen
+
+Levels/Special items...
+- when to move to level (eat X items, or grow to size X)
+- add special items or more AIs?
+
+Start With:
+- basic board
+- 1 player moves
+- Food only
+- player growth

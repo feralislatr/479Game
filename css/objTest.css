@@ -1,0 +1,9 @@
+#player1{
+    width: 100px;
+    height: 100px;
+    position: relative;
+    background-color: blue;
+    transform: translateX(-50px) translateY(-50px);
+    cursor: none;
+    border-radius: 100px;
+}
