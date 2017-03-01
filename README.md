@@ -1,10 +1,10 @@
 ##JavaScript Dot Game for CISC479 Winter 2015
 
-###Kalina Ye
+Kalina Ye
 
-###Briana Slater
+Briana Slater
 
-###Danielle Wegryzn
+Danielle Wegryzn
 
 
 
