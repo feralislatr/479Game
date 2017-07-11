@@ -1,4 +1,4 @@
-##JavaScript Dot Game for CISC479 Winter 2015
+## JavaScript Dot Game for CISC479 Winter 2015
 
 Kalina Ye
 
